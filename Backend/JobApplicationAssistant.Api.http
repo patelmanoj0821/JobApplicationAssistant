@@ -1,0 +1,6 @@
+@JobApplicationAssistant.Api_HostAddress = http://localhost:5145
+
+GET {{JobApplicationAssistant.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

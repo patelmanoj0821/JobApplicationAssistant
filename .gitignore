@@ -1,0 +1,9 @@
+# Ignore local database and browser sessions
+Backend/job_assistant.db
+Backend/UserData/
+Backend/wwwroot/screenshots/*.png
+Frontend/dist/
+node_modules/
+bin/
+obj/
+.env
